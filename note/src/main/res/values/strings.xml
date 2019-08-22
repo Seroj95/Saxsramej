@@ -1,0 +1,20 @@
+<resources>
+    <string name="app_name">Note</string>
+    <string name="label_day_of_weak">Deny Nedelea</string>
+    <string name="hint_title">Zagalovka</string>
+    <string name="hint_descreption">Opisane Zametki</string>
+    <string name="priroty_1">1</string>
+    <string name="priroti_2">2</string>
+    <string name="priroty_3">3</string>
+    <string-array name="days_of_week">
+
+        <item> erkushabti</item>
+        <item> erekshabti</item>
+        <item> choreqshabti</item>
+        <item> hingshabti</item>
+        <item> urbat</item>
+        <item>shabat</item>
+        <item> kiraki</item>
+
+        </string-array>
+</resources>

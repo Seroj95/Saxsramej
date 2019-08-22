@@ -1,0 +1,52 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:orientation="vertical"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    tools:context=".LoginActivity">
+
+
+    <ImageView
+        android:id="@+id/imageViewLogo"
+        android:layout_width="wrap_content"
+        android:layout_height="421dp"
+        android:layout_weight="1"
+        android:contentDescription=" Logotip Cafe"
+        android:src="@drawable/coffe" />
+    <TextView
+        android:gravity="center"
+        android:textStyle="bold"
+        android:id="@+id/textViewWelcom"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="Բարի գալուստ "/>
+
+    <EditText
+        android:id="@+id/editTextName"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_weight="1"
+        android:ems="10"
+        android:inputType="textPersonName"
+        android:hint="Մուքագրել անուն" />
+
+    <EditText
+        android:id="@+id/editTextPassword"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_weight="1"
+android:hint="Գախտնաբառ"
+        android:inputType="textPassword" />
+
+    <Button
+
+        android:onClick="onClickCreateOrder"
+        android:id="@+id/buttonCreateOrder"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_weight="1"
+        android:text="Առաաջ" />
+
+</LinearLayout>

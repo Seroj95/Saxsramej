@@ -1,0 +1,1 @@
+include ':app', ':handler', ':cafeorder', ':box', ':javaoop', ':listview', ':recyclerview', ':pizzarecips', ':note', ':myapplication', ':carsdb', ':db', ':note2'

@@ -1,0 +1,27 @@
+<resources>
+    <string name="app_name">Cafe Gyumri</string>
+
+    <string name="warning_file_files">Սխալ !!!</string>
+    <string-array name="options_of_coffe">
+        <item> American</item>
+        <item> Espreso</item>
+        <item> Lote</item>
+    </string-array>
+    <string name="tea"> Թեյ</string>
+    <string name="coffe">Սուրճ</string>
+    <string name="default_Name">Հաճախորդ</string>
+    <string name="default_Password">Password</string>
+    <string name="milk">Կաթ</string>
+    <string name="hello_user">Բարև %s!, ինչեք պատվիրում</string>
+    <string name="teas">Tea</string>
+    <string name="additions">Ինչեք ավելացնելու %s!</string>
+    <string name="sugar">Շաքար</string>
+    <string name="lemon">Լիմոն</string>
+
+
+    <string-array name="options_of_tea">
+        <item> Սև</item>
+        <item> Կանաչ</item>
+        <item>Կարմիր</item>
+    </string-array>
+</resources>

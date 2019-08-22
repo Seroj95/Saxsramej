@@ -1,0 +1,19 @@
+<resources>
+    <string name="app_name">Box</string>
+    <string name="logo_descreption">Logotip magazin</string>
+    <string name="logo_drele">LogotopDrele</string>
+    <string-array name="tools">
+        <item> Drel </item>
+        <item> Perfarat </item>
+        <item>Bolgarki </item>
+
+    </string-array>
+    <string name="dril_interskol_title"> Drrel Interkol</string>
+    <string name="dril_makita_title"> Drrel Interkol</string>
+    <string name="dril_devalt_title"> Drrel Interkol</string>
+
+
+    <string name="dril_interskol_info">Nakrargrutyu</string>
+    <string name="dril_makita_info"> info 2</string>
+    <string name="dril_devalt_info"> info 3</string>
+</resources>

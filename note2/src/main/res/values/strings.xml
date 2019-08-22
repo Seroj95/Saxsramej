@@ -1,0 +1,22 @@
+<resources>
+    <string name="app_name">note2</string>
+    <string name="labbel_day_of_wek">Nedeli Text:</string>
+    <string name="hint_title">zagalovka:</string>
+
+    <string name="priroty_1">1</string>
+    <string name="priroti_2">2</string>
+    <string name="priroty_3">3</string>
+    <string name="hint_descreption">sd</string>
+    <string-array name="days_of_week">
+
+        <item> erkushabti</item>
+        <item> erekshabti</item>
+        <item> choreqshabti</item>
+        <item> hingshabti</item>
+        <item> urbat</item>
+        <item>shabat</item>
+        <item> kiraki</item>
+
+    </string-array>
+
+</resources>
